@@ -9,7 +9,7 @@
 - ### 📚 I have learned and learning React.
 - ###  🌱 I’m currently learning Python & C.
 - ### 💬 Ask me about Web Development.
-- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python and C.
+- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python and C&C++.
 
 
 
@@ -24,8 +24,10 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
 <img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
-<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwedCJx1NAmpyFHH0iG__uBVMEBme2NknvJ-FB2ByKbPOYS9B8yaEFpKeoS93ZGwX11U&usqp=CAU"/>
+<img width="80px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/>
+<img width="160px" src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img width="80px" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png"/>
